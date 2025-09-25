@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minybarber.github.io/hector-legacy/sitemap.xml
